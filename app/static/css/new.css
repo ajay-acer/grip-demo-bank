@@ -1,0 +1,38 @@
+.row-header {
+    margin: 0px auto;
+    padding: 0px 0px; }
+.jumbotron {
+      margin: 0px auto;
+      padding: 70px 30px;
+      background-color: #00000096 ;
+      color: floralwhite; }
+body {
+    padding: 0px 0px 10px 0px;
+    z-index: 0;
+    background-color: #b79fe0; }
+.modal-header {
+    background: #512da8; }
+.modal-header .modal-title {
+    color: floralwhite; }
+.modal-header .close {
+    color: floralwhite; }
+.modal-content {
+    background: #9575cd; }
+.card-header{
+    background-color: #385253;
+    position:relative;}
+h4{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: floralwhite;}
+a{color: floralwhite;}
+.center {
+    margin: auto;
+    width: 40%;
+    padding: 10px;
+    text-align: center;
+    border: 3px solid green;
+    background-color: #512da8;
+    border-radius: 25px;}
+
+
+    
