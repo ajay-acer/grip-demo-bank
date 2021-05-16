@@ -36,8 +36,8 @@ def transfer():
         if conn.total_changes==0:
             return render_template('failed.html')
         c.execute('''UPDATE BANK SET Balance=Balance+? where Name=?''',(amt,t,))
-        conn.commit()
         c.execute('''INSERT INTO HISTORY VALUES(?,?,?) ''',(fr,t,amt))
+        conn.commit()
         return render_template('success.html') 
 
 @app.route('/history')
