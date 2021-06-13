@@ -1,9 +1,13 @@
-Bank transaction simulation
+# <center>Bank transaction simulation</center>
 
-Front-end:HTML,CSS,Bootstrap
+#### Front-end:
+###### HTML,CSS,Bootstrap
 
-Back-end:Flask
+#### Back-end:
+###### Flask
 
-Database:SQLite
+#### Database:
+##### SQLite
 
-APP-Link:'https://demobank-app.herokuapp.com/'
+#### APP-Link:
+##### 'https://demobank-app.herokuapp.com/'
